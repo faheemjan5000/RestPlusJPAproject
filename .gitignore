@@ -1,0 +1,5 @@
+/bin/
+/target/
+.tern-project
+.settings
+.project
